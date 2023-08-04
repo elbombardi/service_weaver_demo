@@ -1,0 +1,8 @@
+[single]
+listeners.hello = {address = "localhost:12345"}
+
+[serviceweaver]
+binary = "./service_weaver_demo"
+
+[multi]
+listeners.hello = {address = "localhost:12345"}
